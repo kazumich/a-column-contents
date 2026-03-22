@@ -1,12 +1,12 @@
 ---
-title: "MacBook Pro M3 購入レビュー"
+title: "MacBook Pro M4 購入レビュー"
 date: "2024-01-10 10:00:00"
 author: "kazumich"
 category: hardware
 tags: [macbook,apple,m3]
 eyecatch: "https://images.unsplash.com/photo-1666098301006-a1cc7abe5059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDE2NjV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQwODM0MTh8&ixlib=rb-4.1.0&q=80&w=1080"
 ---
-MacBook Pro M3 購入レビュー についてのレポートです。
+MacBook Pro M4 購入レビュー についてのレポートです。
 
 ## 開封・外観
 
